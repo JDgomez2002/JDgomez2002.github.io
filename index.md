@@ -6,3 +6,4 @@ bandit3: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK<br>
 bandit4: pIwrPrtPN36QITSp3EQaw936yaFoFgAB<br>
 bandit5: koReBOKuIDDepwhWk7jZC0RTdopnAYKh<br>
 bandit6: DXjZPULLxYr17uwoI01bNLQbtFemEgo7<br>
+bandit7: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs<br>
