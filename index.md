@@ -1,8 +1,8 @@
 #21429 Jose Daniel Gomez Cabrera<br>
-bandit0: bandit0
-bandit1: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
-bandit2: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
-bandit3: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
-bandit4: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
-bandit5: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
-bandit6: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+bandit0: bandit0<br>
+bandit1: boJ9jbbUNNfktd78OOpsqOltutMc3MY1<br>
+bandit2: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9<br>
+bandit3: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK<br>
+bandit4: pIwrPrtPN36QITSp3EQaw936yaFoFgAB<br>
+bandit5: koReBOKuIDDepwhWk7jZC0RTdopnAYKh<br>
+bandit6: DXjZPULLxYr17uwoI01bNLQbtFemEgo7<br>
